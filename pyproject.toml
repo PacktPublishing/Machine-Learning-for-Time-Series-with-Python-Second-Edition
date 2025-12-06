@@ -8,10 +8,24 @@ version = "0.1.0"
 description = "My awesome project"
 requires-python = ">=3.12"
 dependencies = [
-    "numpy>=1.26.0",
+    "numpy>=1.26.0,<2.0.0",
+    "shap<0.44",
     "pandas>=2.1.0",
     "requests>=2.31.0",
     "jupyter>=1.1.1",
+    "pandas==2.3.3",
+    "matplotlib==3.10.7",
+    "statsmodels==0.14.5",
+    "scikit_learn==1.7.2",
+    "yfinance==0.2.66",
+    "pmdarima==2.1.1",
+    "sktime==0.40.1",
+    "statsforecast==2.0.3",
+    "darts==0.39.0",
+    "skforecast==0.19.0",
+    "autogluon==1.4.0",
+    "mlforecast==0.14.0",
+    "skforecast==0.19.0",
 ]
 
 [project.optional-dependencies]
