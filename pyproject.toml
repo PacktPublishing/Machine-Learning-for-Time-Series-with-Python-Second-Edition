@@ -26,6 +26,8 @@ dependencies = [
     "autogluon==1.4.0",
     "mlforecast==0.14.0",
     "skforecast==0.19.0",
+    "openpyxl==3.1.5",
+    "tsfresh==0.21.1",
 ]
 
 [project.optional-dependencies]
