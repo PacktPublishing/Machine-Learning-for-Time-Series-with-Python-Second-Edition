@@ -92,3 +92,4 @@ Thumbs.db
 *.db
 *.sqlite3
 chapter6/data/
+chapter7/lightning_logs/
