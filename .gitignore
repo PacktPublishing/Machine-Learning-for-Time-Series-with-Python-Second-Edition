@@ -91,5 +91,7 @@ Thumbs.db
 *.sqlite
 *.db
 *.sqlite3
-chapter6/data/
-chapter7/lightning_logs/
+**/data/
+**/lightning_logs/
+**/patchtst_results/
+**/wandb/
