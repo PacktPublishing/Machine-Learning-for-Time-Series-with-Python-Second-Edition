@@ -3,9 +3,9 @@ requires = ["setuptools>=61.0.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "my_project"
-version = "0.1.0"
-description = "My awesome project"
+name = "ml_time_series"
+version = "0.3.0"
+description = "Companion repo for Machine learning for time series with Python (2nd edition)"
 requires-python = ">=3.12"
 dependencies = [
     "numpy>=1.26.0,<2.0.0",
