@@ -36,7 +36,7 @@ dependencies = [
     "ucimlrepo==0.0.7",
     "hf-xet==1.2.0",
     "pandera==0.29.0",
-    "mlflow==3.9.0",
+    "mlflow==3.11.0rc1",
     "nannyml==0.13.1",
     "lifelines==0.30.3",
     "scikit-survival==0.27.0",
