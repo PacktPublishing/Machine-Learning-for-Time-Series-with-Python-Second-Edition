@@ -38,6 +38,8 @@ dependencies = [
     "pandera==0.29.0",
     "mlflow==3.9.0",
     "nannyml==0.13.1",
+    "lifelines==0.30.3",
+    "scikit-survival==0.27.0",
 ]
 
 [project.optional-dependencies]
