@@ -40,6 +40,10 @@ dependencies = [
     "nannyml==0.13.1",
     "lifelines==0.30.3",
     "scikit-survival==0.27.0",
+    "river==0.22.0",
+    "tigramite==5.2.10.1",
+    "pycausalimpact==0.1.1",
+    "dowhy==0.14",
 ]
 
 [project.optional-dependencies]
