@@ -30,6 +30,8 @@ dependencies = [
     "hierarchicalforecast==1.4.0",
     "neuralforecast==3.0.2",
     "arch==8.0.0",
+    "lightgbm==4.6.0",
+    "mapie==1.4.0",
     "seaborn==0.13.2",
     "datasetsforecast==1.0.0",
     "chronos-forecasting==2.2.2",

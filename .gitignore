@@ -35,6 +35,9 @@ MANIFEST
 # Exception: small synthetic sample shipped with Chapter 10 (other datasets are downloaded externally)
 !chapter10/incoming_zone_demand.parquet
 
+# Downloaded by chapter5/download_m5.py, not redistributed in the repo
+chapter5/m5-forecasting-accuracy.zip
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
